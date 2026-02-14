@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+.kiro/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary documentation files
+temp-docs/
+
+# Detailed documentation (keep for course content)
+docs/
+
+# StackBlitz configuration
+.stackblitz/
+*.bat
+
+# Backup files
+*_backup.*
+*_improved.*
+
+# Environment
+.env
+.env.local
+.env.*.local
