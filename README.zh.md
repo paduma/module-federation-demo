@@ -2,7 +2,7 @@
 
 **中文** | [English](README.md)
 
-[![在 StackBlitz 中打开](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/paduma/module-federation-demo/tree/demo/stackblitz)
+[![在 StackBlitz 中打开](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/paduma/module-federation-demo?file=README.md)
 
 一个基于 Webpack 5 Module Federation 的微前端示例项目，展示了 React 18、React 16 和 Vue 3 的跨框架集成。
 
@@ -83,7 +83,7 @@ npm run dev
 
 ## 🌐 在线演示
 
-[![在 StackBlitz 中打开](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/paduma/module-federation-demo/tree/demo/stackblitz)
+[![在 StackBlitz 中打开](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/paduma/module-federation-demo?file=README.md)
 
 点击上方徽章，在浏览器中立即体验！
 

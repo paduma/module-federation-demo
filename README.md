@@ -2,7 +2,7 @@
 
 [中文](README.zh.md) | **English**
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/paduma/module-federation-demo/tree/demo/stackblitz)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/paduma/module-federation-demo?file=README.md)
 
 A micro-frontend demo project using Webpack 5 Module Federation, showcasing cross-framework integration with React 18, React 16, and Vue 3.
 
@@ -83,7 +83,7 @@ This will start:
 
 ## 🌐 Online Demo
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/paduma/module-federation-demo/tree/demo/stackblitz)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/paduma/module-federation-demo?file=README.md)
 
 Click the badge above to try it out instantly in your browser!
 
